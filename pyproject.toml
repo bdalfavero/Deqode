@@ -1,0 +1,4 @@
+[project]
+name = "deqode"
+dynamic = ["version"]
+readme = "README.md"
